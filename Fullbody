@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treinos Fullbody - Transforme Seu Corpo e Sua Vida!</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-overlay"></div>
+        <div class="container">
+            <div class="hero-content">
+                <h1 class="hero-title">Desbloqueie Seu Potencial Máximo com 210 Treinos Fullbody e 500 Vídeos Exclusivos!</h1>
+                <p class="hero-subtitle">Conquiste o Corpo dos Seus Sonhos, Onde e Quando Quiser, por Apenas R$ 49,90!</p>
+                <a href="https://pay.kiwify.com.br/6AHpA8C" class="cta-button primary">QUERO MEUS TREINOS FULLBODY AGORA!</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Problema Section -->
+    <section class="problema">
+        <div class="container">
+            <h2>Cansado de Treinos Ineficazes e Sem Direção?</h2>
+            <div class="problema-grid">
+                <div class="problema-item">
+                    <i class="fas fa-times-circle"></i>
+                    <h3>Falta de Resultados</h3>
+                    <p>Você se sente frustrado com a falta de resultados na academia?</p>
+                </div>
+                <div class="problema-item">
+                    <i class="fas fa-question-circle"></i>
+                    <h3>Sem Direção</h3>
+                    <p>Não sabe por onde começar ou como progredir?</p>
+                </div>
+                <div class="problema-item">
+                    <i class="fas fa-clock"></i>
+                    <h3>Falta de Tempo</h3>
+                    <p>A rotina corrida impede você de ter um acompanhamento profissional?</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Solução Section -->
+    <section class="solucao">
+        <div class="container">
+            <h2>A Solução: Treinos Fullbody - Seu Guia Completo para a Transformação!</h2>
+            <p class="solucao-intro">Chega de treinos monótonos e sem propósito! Apresentamos o <strong>Treinos Fullbody</strong>, a solução definitiva para quem busca resultados reais e duradouros.</p>
+            
+            <div class="recursos-grid">
+                <div class="recurso-card">
+                    <div class="recurso-icon">
+                        <i class="fas fa-dumbbell"></i>
+                        <span class="numero">210</span>
+                    </div>
+                    <h3>Treinos Fullbody Exclusivos</h3>
+                    <p>Uma variedade incrível de rotinas de treino focadas em trabalhar todos os grupos musculares, otimizando seu tempo e maximizando seus resultados.</p>
+                </div>
+                
+                <div class="recurso-card">
+                    <div class="recurso-icon">
+                        <i class="fas fa-play-circle"></i>
+                        <span class="numero">500+</span>
+                    </div>
+                    <h3>Vídeos de Treino Detalhados</h3>
+                    <p>Nunca mais se sinta perdido! Nossos vídeos demonstram cada exercício com a técnica correta, garantindo sua segurança e a eficácia do seu treino.</p>
+                </div>
+                
+                <div class="recurso-card">
+                    <div class="recurso-icon">
+                        <i class="fas fa-infinity"></i>
+                    </div>
+                    <h3>Acesso Imediato e Vitalício</h3>
+                    <p>Comece sua jornada de transformação agora mesmo! Tenha acesso ilimitado a todo o conteúdo, para treinar no seu ritmo.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Benefícios Section -->
+    <section class="beneficios">
+        <div class="container">
+            <h2>Benefícios que Você Vai Conquistar</h2>
+            <div class="beneficios-grid">
+                <div class="beneficio-item">
+                    <i class="fas fa-muscle"></i>
+                    <h3>Ganho de Massa Muscular</h3>
+                    <p>Treinos focados no desenvolvimento muscular completo, proporcionando um corpo mais forte e definido.</p>
+                </div>
+                
+                <div class="beneficio-item">
+                    <i class="fas fa-fire"></i>
+                    <h3>Queima de Gordura Acelerada</h3>
+                    <p>Rotinas intensas que elevam seu metabolismo, ajudando você a eliminar gordura e alcançar um físico mais atlético.</p>
+                </div>
+                
+                <div class="beneficio-item">
+                    <i class="fas fa-heart"></i>
+                    <h3>Melhora da Resistência</h3>
+                    <p>Aumente sua capacidade cardiovascular e sinta-se mais disposto para as atividades do dia a dia.</p>
+                </div>
+                
+                <div class="beneficio-item">
+                    <i class="fas fa-piggy-bank"></i>
+                    <h3>Economia de Tempo e Dinheiro</h3>
+                    <p>Diga adeus às mensalidades de academia caras e aos deslocamentos. Treine com qualidade sem sair de casa.</p>
+                </div>
+                
+                <div class="beneficio-item">
+                    <i class="fas fa-chart-line"></i>
+                    <h3>Motivação Constante</h3>
+                    <p>A variedade de treinos e o acompanhamento em vídeo manterão você engajado e focado em seus objetivos.</p>
+                </div>
+                
+                <div class="beneficio-item">
+                    <i class="fas fa-smile"></i>
+                    <h3>Saúde e Bem-Estar</h3>
+                    <p>Invista em você e colha os frutos de uma vida mais saudável, com mais energia e autoestima.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Depoimentos Section -->
+    <section class="depoimentos">
+        <div class="container">
+            <h2>O Que Nossos Clientes Dizem</h2>
+            <div class="depoimentos-grid">
+                <div class="depoimento-card">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>"Eu estava desanimada com meus treinos, mas o Treinos Fullbody mudou tudo! Os vídeos são super didáticos e a variedade de treinos me manteve motivada. Já vejo resultados incríveis!"</p>
+                    <div class="cliente">
+                        <strong>Maria S.</strong>
+                        <span>Cliente Satisfeita</span>
+                    </div>
+                </div>
+                
+                <div class="depoimento-card">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>"Nunca imaginei que conseguiria treinar em casa com tanta qualidade. Os treinos são desafiadores e os vídeos me ajudaram muito a corrigir minha postura. Recomendo demais!"</p>
+                    <div class="cliente">
+                        <strong>João P.</strong>
+                        <span>Cliente Satisfeito</span>
+                    </div>
+                </div>
+                
+                <div class="depoimento-card">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>"O custo-benefício é imbatível! Tenho acesso a um material completo por um preço que cabe no meu bolso. Minha energia e disposição aumentaram muito."</p>
+                    <div class="cliente">
+                        <strong>Ana L.</strong>
+                        <span>Cliente Satisfeita</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Preço Section -->
+    <section class="preco" id="preco">
+        <div class="container">
+            <h2>Preço Irresistível</h2>
+            <p class="preco-intro">Por tempo limitado, você pode ter acesso a todo esse conteúdo exclusivo por um valor que cabe no seu bolso:</p>
+            
+            <div class="preco-card">
+                <div class="preco-antes">De R$ 199,90</div>
+                <div class="preco-atual">
+                    <span class="moeda">R$</span>
+                    <span class="valor">49</span>
+                    <span class="centavos">,90</span>
+                </div>
+                <div class="economia">Você economiza R$ 150,00!</div>
+                <a href="#" class="cta-button primary large">QUERO MEUS TREINOS FULLBODY AGORA!</a>
+                <div class="garantia">
+                    <i class="fas fa-shield-alt"></i>
+                    <span>Garantia de 7 dias ou seu dinheiro de volta!</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2>Perguntas Frequentes</h2>
+            <div class="faq-list">
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>Preciso de equipamentos para fazer os treinos?</h3>
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Muitos treinos podem ser feitos apenas com o peso corporal. Alguns podem sugerir o uso de halteres leves ou elásticos, mas sempre haverá alternativas.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>Os treinos são para iniciantes?</h3>
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Sim! Os treinos são adaptáveis para todos os níveis, do iniciante ao avançado. Você pode ajustar a intensidade de acordo com sua capacidade.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>Como receberei o acesso aos treinos e vídeos?</h3>
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Após a confirmação do pagamento, você receberá um e-mail com as instruções e o link de acesso à plataforma onde todo o conteúdo estará disponível.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>Por quanto tempo terei acesso?</h3>
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p>O acesso é vitalício! Uma vez adquirido, o conteúdo é seu para sempre.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>Existe alguma garantia?</h3>
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Sim! Temos uma garantia de satisfação de 7 dias. Se por algum motivo você não estiver satisfeito, devolvemos seu dinheiro. Sem perguntas!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Final Section -->
+    <section class="cta-final">
+        <div class="container">
+            <h2>Não Espere Mais para Começar Sua Transformação!</h2>
+            <p>Adquira agora o Treinos Fullbody e dê o primeiro passo para uma vida mais saudável, forte e feliz!</p>
+            <a href="https://pay.kiwify.com.br/6AHpA8C" class="cta-button primary large">QUERO MEUS TREINOS FULLBODY AGORA!</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Treinos Fullbody. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
